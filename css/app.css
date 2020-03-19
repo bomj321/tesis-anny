@@ -1,0 +1,58 @@
+/****************GENERAL STYLES***************/
+*
+{
+	font-family: "Roboto";
+}
+
+.hidden-section
+{
+	display: none;
+}
+
+
+.show-section
+{
+	display: block;
+}
+
+/**************HEADER*****************/
+
+.img-logo-header
+{
+	border-radius: 99px !important;
+	border: 1px solid black !important;
+}
+
+
+
+
+
+
+
+
+
+/***************Case 1****************/
+
+.ul-list-case-1
+{
+	list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*************Productions methods**********************/
