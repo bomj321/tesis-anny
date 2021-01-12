@@ -3,11 +3,10 @@
 
 $urlToRedirect = 'index.php';
 
-if ($_POST['select-case-study']) 
+if (isset($_POST['select-case-study'])) 
 {
 
 	$typeCase = $_POST['select-case-study'];
-
 
 	if($typeCase == 1)
 	{	
@@ -17,6 +16,12 @@ if ($_POST['select-case-study'])
 		echo '<script type="text/javascript">
 		window.location="'.$urlToRedirectOne.'"</script>';
 
+	}else if($typeCase == 2)
+	{
+		$urlToRedirectTwo = $urlToRedirect.'?case=2';
+		
+		echo '<script type="text/javascript">
+		window.location="'.$urlToRedirectTwo.'"</script>';
 	}
 }
 

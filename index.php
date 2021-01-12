@@ -36,7 +36,7 @@
 
 			}else if($_GET['case'] == 2)
 			{
-				include 'sections/case-2.php';
+				include 'sections/section-two/case-2.php';
 			}
 
 		}

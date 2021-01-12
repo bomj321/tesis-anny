@@ -15,6 +15,8 @@ $("#button-next-part-2-case-1").click(function () {
 });
 
 $("#button-next-part-3-case-1").click(function () {
+  $("#part-2-case-1").removeClass("show-section");
+  $("#part-2-case-1").addClass("hidden-section");
   $("#part-3-case-1").removeClass("show-section");
   $("#part-3-case-1").addClass("hidden-section");
   $("#part-4-case-1").removeClass("hidden-section");
