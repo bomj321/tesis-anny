@@ -13,7 +13,6 @@ if ($_POST['select-case-study'])
 	{	
 		header('Location: '. $urlToRedirect . '?case=1');
 
-
 	}
 }
 

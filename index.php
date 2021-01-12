@@ -26,7 +26,7 @@
 
 		if (!isset($_GET['case'])) 
 		{
-			 include 'pages/defect-case.php';
+			 include 'sections/defect-case.php';
 		}
 
 		if (isset($_GET['case'])) 
@@ -34,11 +34,11 @@
 
 			if($_GET['case'] == 1) 
 			{ 
-				 include 'pages/case-1.php';
+				 include 'sections/section-one/case-1.php';
 
 			}else if($_GET['case'] == 2)
 			{
-				include 'pages/case-2.php';
+				include 'sections/case-2.php';
 			}
 
 		}
