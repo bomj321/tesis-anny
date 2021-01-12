@@ -7,6 +7,7 @@ $("#button-next-part-1-case-1").click(function () {
 });
 
 $("#button-next-part-2-case-1").click(function () {
+  $("#part-1-case-1").addClass("hidden-section");
   $("#part-2-case-1").removeClass("show-section");
   $("#part-2-case-1").addClass("hidden-section");
   $("#part-3-case-1").removeClass("hidden-section");

@@ -17,7 +17,7 @@
 					<li class="list-group-item">Realizar pruebas de presión</li>
 					<li class="list-group-item">REalizar registros CBL - VDL</li>
 					<li class="list-group-item">Analisís de nucleo</li>
-			 </ul>
+			    </ul>
 			</div>
 		</div>
 
