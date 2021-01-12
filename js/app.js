@@ -47,3 +47,16 @@ $("#button-next-part-4-case-1-no").click(function () {
 });
 
 /*************************Case 1*********************************/
+
+$("#button-next-part-1-2-case-1").click(function () {
+  $("#part-1-case-1").addClass("hidden-section");
+  $("#part-2-2-case-1").removeClass("hidden-section");
+  $("#part-2-2-case-1").addClass("show-section");
+});
+
+$("#button-next-part-2-2-case-1").click(function () {
+  $("#part-2-2-case-1").addClass("hidden-section");
+  $("#part-2-2-case-1").removeClass("show-section");
+  $("#part-3-2-case-1").removeClass("hidden-section");
+  $("#part-3-2-case-1").addClass("show-section");
+});

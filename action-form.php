@@ -22,6 +22,37 @@ if (isset($_POST['select-case-study']))
 		
 		echo '<script type="text/javascript">
 		window.location="'.$urlToRedirectTwo.'"</script>';
+
+	}else if($typeCase == 3)
+	{
+		$urlToRedirectThree = $urlToRedirect.'?case=3';
+		
+		echo '<script type="text/javascript">
+		window.location="'.$urlToRedirectThree.'"</script>';
+	}else if($typeCase == 4)
+	{
+		$urlToRedirectFour = $urlToRedirect.'?case=4';
+		
+		echo '<script type="text/javascript">
+		window.location="'.$urlToRedirectFour.'"</script>';
+	}else if($typeCase == 5)
+	{
+		$urlToRedirectFive = $urlToRedirect.'?case=5';
+		
+		echo '<script type="text/javascript">
+		window.location="'.$urlToRedirectFive.'"</script>';
+	}else if($typeCase == 6)
+	{
+		$urlToRedirectSix = $urlToRedirect.'?case=6';
+		
+		echo '<script type="text/javascript">
+		window.location="'.$urlToRedirectSix.'"</script>';
+	}else if($typeCase == 7)
+	{
+		$urlToRedirectSeven = $urlToRedirect.'?case=7';
+		
+		echo '<script type="text/javascript">
+		window.location="'.$urlToRedirectSeven.'"</script>';
 	}
 }
 

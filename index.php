@@ -37,6 +37,22 @@
 			}else if($_GET['case'] == 2)
 			{
 				include 'sections/section-two/case-2.php';
+
+			}else if($_GET['case'] == 3)
+			{
+				include 'sections/section-three/case-3.php';
+			}else if($_GET['case'] == 4)
+			{
+				include 'sections/section-four/case-4.php';
+			}else if($_GET['case'] == 5)
+			{
+				include 'sections/section-five/case-5.php';
+			}else if($_GET['case'] == 6)
+			{
+				include 'sections/section-six/case-6.php';
+			}else if($_GET['case'] == 7)
+			{
+				include 'sections/section-seven/case-7.php';
 			}
 
 		}
