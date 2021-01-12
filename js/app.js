@@ -21,6 +21,15 @@ $("#button-next-part-3-case-1").click(function () {
   $("#part-4-case-1").addClass("show-section");
 });
 
+$("#button-next-part-4-case-1").click(function () {
+  $("#part-3-case-1").removeClass("show-section");
+  $("#part-3-case-1").addClass("hidden-section");
+  $("#part-4-case-1").removeClass("show-section");
+  $("#part-4-case-1").addClass("hidden-section");
+  $("#part-5-case-1").removeClass("hidden-section");
+  $("#part-5-case-1").addClass("show-section");
+});
+
 $("#button-next-part-4-case-1-yes").click(function () {
   $("#part-4-case-1").removeClass("show-section");
   $("#part-4-case-1").addClass("hidden-section");
