@@ -1,9 +1,0 @@
-
-
-
-<script src="../../js/jquery.js" type="text/javascript"></script>
-<script src="../../js/popper.js" type="text/javascript"></script>
-<script src="../../js/bootstrap.js" type="text/javascript"></script>
-<script src="../../js/app.js" type="text/javascript"></script>
-</body>
-</html>

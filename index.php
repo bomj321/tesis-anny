@@ -14,8 +14,6 @@
 
 <div class="container">
 			<!-----------DEFECT CASE--------------------->
-
-
 			
 
 
