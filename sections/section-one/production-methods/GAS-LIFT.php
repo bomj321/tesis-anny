@@ -3,15 +3,20 @@
 
     <div id="part-1-case-1">
 
-    <div class="row">
-        <div class="col-12 text-center mt-5">
+        <div class="row">
+            <div class="col-12 text-center mt-5">
                 <h3>Operación con maquina de servicio</h3>
                 <ul class="list-group ul-list-case-1 text-center">
-					<li class="list-group-item">Aplicar solvente aromático o parafínico cual sea el caso</li>				
-			    </ul>
+                    <li class="list-group-item">Aplicar solvente aromático o parafínico cual sea el caso</li>
+                </ul>
             </div>
         </div>
 
+        <div class="row">
+            <div class="col-12 text-center mt-5">
+                <h3>¿Mejoró?</h3>
+            </div>
+        </div>
 
         <div class="row mt-4">
             <div

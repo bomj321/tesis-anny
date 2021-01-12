@@ -15,12 +15,17 @@
             </div>
         </div>
 
-
+        <div class="row">
+			<div class="col-12 text-center mt-5">
+				<h3>¿Mejoró?</h3>
+			</div>
+        </div>
+        
         <div class="row mt-4">
             <div
                 class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 offset-xl-3 offset-lg-3 d-flex justify-content-between">
-                <a href="../../../index.php?case=2" class="btn btn-lg btn-danger">No</a>
                 <a href="../../../index.php" class="btn btn-lg btn-success">Si</a>
+                <a href="../../../index.php?case=3" class="btn btn-lg btn-danger">No</a>
             </div>
 
         </div>
