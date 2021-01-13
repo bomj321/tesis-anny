@@ -56,6 +56,12 @@
 			}else if($_GET['case'] == 8)
 			{
 				include 'sections/section-eight/case-8.php';
+			}else if($_GET['case'] == 9)
+			{
+				include 'sections/section-nine/case-9.php';
+			}else if($_GET['case'] == 10)
+			{
+				include 'sections/section-ten/case-10.php';
 			}
 
 		}

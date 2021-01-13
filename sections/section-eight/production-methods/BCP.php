@@ -46,7 +46,7 @@
             <div
                 class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 offset-xl-3 offset-lg-3 d-flex justify-content-between">
                 <a href="../../../index.php" class="btn btn-lg btn-success">Si</a>
-                <a href="../../../index.php?case=8" class="btn btn-lg btn-danger">No</a>
+                <a href="../../../index.php?case=9" class="btn btn-lg btn-danger">No</a>
             </div>
 
         </div>
@@ -108,7 +108,7 @@
             <div
                 class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 offset-xl-3 offset-lg-3 d-flex justify-content-between">
                 <a href="../../../index.php" class="btn btn-lg btn-success">Si</a>
-                <a href="../../../index.php?case=8" class="btn btn-lg btn-danger">No</a>
+                <a href="../../../index.php?case=9" class="btn btn-lg btn-danger">No</a>
             </div>
 
         </div>
@@ -143,7 +143,7 @@
             <div
                 class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 offset-xl-3 offset-lg-3 d-flex justify-content-between">
                 <a href="../../../index.php" class="btn btn-lg btn-success">Si</a>
-                <a href="../../../index.php?case=8" class="btn btn-lg btn-danger">No</a>
+                <a href="../../../index.php?case=9" class="btn btn-lg btn-danger">No</a>
             </div>
 
         </div>

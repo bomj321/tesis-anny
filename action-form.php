@@ -59,6 +59,18 @@ if (isset($_POST['select-case-study']))
 		
 		echo '<script type="text/javascript">
 		window.location="'.$urlToRedirectEight.'"</script>';
+	}else if($typeCase == 9)
+	{
+		$urlToRedirectNine = $urlToRedirect.'?case=9';
+		
+		echo '<script type="text/javascript">
+		window.location="'.$urlToRedirectNine.'"</script>';
+	}else if($typeCase == 10)
+	{
+		$urlToRedirectTen = $urlToRedirect.'?case=10';
+		
+		echo '<script type="text/javascript">
+		window.location="'.$urlToRedirectTen.'"</script>';
 	}
 }
 
