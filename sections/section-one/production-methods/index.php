@@ -3,7 +3,7 @@
 <!----------------------------------------------NAVBAR----------------------------------------------->
 
 <nav class="navbar navbar-dark bg-primary">
-	   <a class="navbar-brand" href="#">
+	<a class="navbar-brand" href="../../../index.php">	
    			 <img class="img-logo-header" src="../../../images/logo.ico" width="50" height="50" alt="Logo">
    			 Sistema Wennan
  	 </a>	
