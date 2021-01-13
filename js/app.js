@@ -48,6 +48,8 @@ $("#button-next-part-4-case-1-no").click(function () {
 
 /*************************Case 1*********************************/
 
+/*************************Case 2*********************************/
+
 $("#button-next-part-1-2-case-1").click(function () {
   $("#part-1-case-1").addClass("hidden-section");
   $("#part-2-2-case-1").removeClass("hidden-section");
@@ -60,3 +62,26 @@ $("#button-next-part-2-2-case-1").click(function () {
   $("#part-3-2-case-1").removeClass("hidden-section");
   $("#part-3-2-case-1").addClass("show-section");
 });
+
+$("#button-next-part-3-2-case-1").click(function () {
+  $("#part-3-2-case-1").addClass("hidden-section");
+  $("#part-3-2-case-1").removeClass("show-section");
+  $("#part-4-2-case-1").removeClass("hidden-section");
+  $("#part-4-2-case-1").addClass("show-section");
+});
+
+$("#button-next-part-4-2-case-1").click(function () {
+  $("#part-3-2-case-1").addClass("hidden-section");
+  $("#part-3-2-case-1").removeClass("show-section");
+  $("#part-4-2-case-1").removeClass("hidden-section");
+  $("#part-4-2-case-1").addClass("show-section");
+});
+
+$("#button-next-part-5-2-case-1").click(function () {
+  $("#part-3-2-case-1").addClass("hidden-section");
+  $("#part-3-2-case-1").removeClass("show-section");
+  $("#part-5-2-case-1").removeClass("hidden-section");
+  $("#part-5-2-case-1").addClass("show-section");
+});
+
+/*************************Case 2*********************************/

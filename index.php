@@ -3,7 +3,7 @@
 <!----------------------------------------------NAVBAR----------------------------------------------->
 
 <nav class="navbar navbar-dark bg-primary">
-	   <a class="navbar-brand" href="#">
+	   <a class="navbar-brand" href="./index.php">
    			 <img class="img-logo-header" src="images/logo.ico" width="50" height="50" alt="Logo">
    			 Sistema Wennan
  	 </a>	
@@ -53,6 +53,9 @@
 			}else if($_GET['case'] == 7)
 			{
 				include 'sections/section-seven/case-7.php';
+			}else if($_GET['case'] == 8)
+			{
+				include 'sections/section-eight/case-8.php';
 			}
 
 		}
