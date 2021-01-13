@@ -37,7 +37,9 @@
 			<div class="col-12 text-center mt-5">
 				<h3>Operación con taladro</h3>
 				<ul class="list-group ul-list-case-1 text-center">
-					<li class="list-group-item">Retirar forro ranurado y aplicar tratamiento con acido dependiendo del tipo de yacimiento y las condiciones que se tenga.</li>                    
+					<li class="list-group-item">Retirar completación.</li>  
+					<li class="list-group-item">Retirar la grava y hacer uso de rejilla ranurada</li>                   
+                  
 				</ul>
 			</div>
 		</div>
@@ -70,9 +72,11 @@
 
 	<div class="row">
 			<div class="col-12 text-center mt-5">
-				<h3>Operación con maquinas de servicio</h3>
+				<h3>Operación con taladro</h3>
 				<ul class="list-group ul-list-case-1 text-center">
-					<li class="list-group-item">Aplicar tratamiento con acido dependiendo del tipo de yacimiento y las condiciones que se tenga.</li>                    
+					<li class="list-group-item">Retirar sarta de completación</li>  
+					<li class="list-group-item">Insertar reillas preempacada y sarta de completación</li>                   
+                  
 				</ul>
 			</div>
 		</div>

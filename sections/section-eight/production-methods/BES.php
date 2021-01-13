@@ -8,7 +8,7 @@
                 <h3>Operación con taladro</h3>
                 <ul class="list-group ul-list-case-1 text-center">
 					<li class="list-group-item">Retirar completación</li>
-					<li class="list-group-item">Aplicar solvente aromático o parafínico cual sea el caso</li>
+					<li class="list-group-item">Aplicar tratamiento con surfactante</li>
 					<li class="list-group-item">Insertar nueva completación</li>
 				
 			    </ul>

@@ -28,7 +28,7 @@
                 <h3>Operación con taladro</h3>
                 <ul class="list-group ul-list-case-1 text-center">
                     <li class="list-group-item">Retirar completación</li>
-                    <li class="list-group-item">Aplicar solvente aromático o parafínico cual sea el caso</li>
+                    <li class="list-group-item">Aplicar tratamiento con ácido</li>
                     <li class="list-group-item">Insertar nueva completación</li>
 
                 </ul>
@@ -90,7 +90,7 @@
                 <h3>Operación con taladro</h3>
                 <ul class="list-group ul-list-case-1 text-center">
                     <li class="list-group-item">Retirar sarta de completación</li>
-                    <li class="list-group-item">Insertar solventes aromaticos o parafinicos</li>
+                    <li class="list-group-item">Aplicar tratamiento con ácido</li>
                     <li class="list-group-item">Insertar nueva completación</li>
 
                 </ul>
@@ -125,7 +125,7 @@
                 <h3>Operación con maquina de servicio</h3>
                 <ul class="list-group ul-list-case-1 text-center">
                     <li class="list-group-item">Retirar cabillas</li>
-                    <li class="list-group-item">Insertar solventes aromaticos o parafinicos</li>
+                    <li class="list-group-item">Aplicar tratamiento con ácido</li>
                     <li class="list-group-item">Insertar cabillas</li>
 
                 </ul>

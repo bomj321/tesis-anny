@@ -131,7 +131,10 @@
 
 		<div class="row">
 			<div class="col-12 text-center mt-5">
-				<h2>Operación con maquina de servicio. Aplicar solventes aromatícos o parafinicos con tubería continúa</h2>
+				<h2>Operación con maquina de servicio. </h2>
+				<ul class="list-group ul-list-case-1 text-center">
+					<li class="list-group-item">Aplicar solventes aromatícos o parafinicos con tubería continúa.</li>                    
+				</ul>
 			</div>
 		</div>
 
@@ -163,7 +166,11 @@
 
 		<div class="row">
 			<div class="col-12 text-center mt-5">
-				<h2>Operación con taladro. Retirar forro ranurado y aplicar solventes aromáticos o solventes parafínicos cual sea el caso</h2>
+				<h2>Operación con taladro </h2>
+				<ul class="list-group ul-list-case-1 text-center">
+					<li class="list-group-item">Retirar forro ranurado.</li>        
+					<li class="list-group-item">Aplicar solventes aromáticos o solventes parafínicos cual sea el caso.</li>        
+				</ul>
 			</div>
 		</div>
 

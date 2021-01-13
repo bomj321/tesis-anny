@@ -7,7 +7,7 @@
         <div class="col-12 text-center mt-5">
                 <h3>Operación con maquina de servicio</h3>
                 <ul class="list-group ul-list-case-1 text-center">
-					<li class="list-group-item">Aplicar solvente aromático o parafínico cual sea el caso</li>				
+					<li class="list-group-item">Aplicar geles o agentes surfactantes</li>				
 			    </ul>
             </div>
         </div>

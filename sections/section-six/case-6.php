@@ -20,7 +20,7 @@
 		<div class="row mt-4">
 			<div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 offset-xl-3 offset-lg-3 d-flex justify-content-between">
 				<button type="button" class="btn btn-lg btn-success" id="button-next-part-1-case-1">Si</button>
-				<a href="sections/section-two/production-methods/index.php?case=1" class="btn btn-lg btn-danger">No</a>
+				<a href="sections/section-six/production-methods/index.php?case=1" class="btn btn-lg btn-danger">No</a>
 				
 			</div>
 			

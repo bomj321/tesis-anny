@@ -28,7 +28,7 @@
                 <h3>Operación con taladro</h3>
                 <ul class="list-group ul-list-case-1 text-center">
                     <li class="list-group-item">Retirar completación</li>
-                    <li class="list-group-item">Aplicar solvente aromático o parafínico cual sea el caso</li>
+                    <li class="list-group-item">Aplicar tratamiento con ácido dependiendo del tipo de yacimiento y las condiciones que se tenga</li>
                     <li class="list-group-item">Insertar nueva completación</li>
 
                 </ul>
@@ -64,7 +64,7 @@
                 <h3>Operación con maquinas de servicio</h3>
                 <ul class="list-group ul-list-case-1 text-center">
                     <li class="list-group-item">Retirar sarta de cabillas</li>
-                    <li class="list-group-item">Aplicar solvente aromático o parafínico cual sea el caso</li>
+                    <li class="list-group-item">Aplicar tratamiento con ácido dependiendo del tipo de yacimiento y las condiciones que se tenga</li>
                 </ul>
             </div>
         </div>
