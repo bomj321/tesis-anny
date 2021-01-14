@@ -56,16 +56,10 @@
 
 
     <div id="part-3-case-1" class="hidden-section">
-
+    
         <div class="row">
             <div class="col-12 text-center mt-5">
-                <h3>Bomba Insertada</h3>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-12 text-center mt-5">
-                <h3>¿Mejoró?</h3>
+                <h3>¿Bomba Insertada?</h3>
             </div>
         </div>
 
