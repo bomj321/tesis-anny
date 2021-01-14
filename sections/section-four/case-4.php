@@ -2,7 +2,8 @@
 
 	<div class="row">
 			<div class="col-12 text-center mt-5">
-				<h2>Prueba de compatibilidad fluido de inyección-formación</h2>
+				<h2>Bloqueo por agua o inversión de la mojabilidad</h2>
+				<3>Prueba de compatibilidad fluido de inyección-formación</3>
 			</div>
 		</div>
 

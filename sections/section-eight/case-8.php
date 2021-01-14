@@ -1,8 +1,14 @@
 <div id="part-1-case-1">
 
+<div class="row">
+			<div class="col-12 text-center mt-5">
+				<h2>Alta viscosidad del petroleo</h2>
+			</div>
+		</div>		
+
 		<div class="row">
 			<div class="col-12 text-center mt-5">
-				<h2>Analisis del crudo</h2>
+				<h3>Analisis del crudo</h3>
 				<h3>¿Se debe al mecanismo de empuje por gas en solución?</h3>
 			</div>
 		</div>		

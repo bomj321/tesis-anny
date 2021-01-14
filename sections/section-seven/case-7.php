@@ -2,6 +2,7 @@
 
 		<div class="row">
 			<div class="col-12 text-center mt-5">
+				<h3>S>>10</h3>
 				<h3>¿Hoyo Desnudo?</h3>
 			</div>
 		</div>		

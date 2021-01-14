@@ -2,7 +2,9 @@
 
 	<div class="row">
 			<div class="col-12 text-center mt-5">
-				<h2>Prueba de compatibilidad fluido de inyección-formación</h2>
+				<h2>Precipitados inorganicos</h2>
+				<h3>Prueba de compatibilidad fluido de inyección-formación</h3>
+
 			</div>
 		</div>
 

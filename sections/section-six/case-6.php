@@ -2,8 +2,14 @@
 
 	<div class="row">
 			<div class="col-12 text-center mt-5">
-				<h2>Analísis de núcleo o granulometrico, pruebas de compatibilidad, estabilizadores, inhibidores otros aditivos.</h2>
-				<h2>Compatibilidad fluido de inyección-formación.</h2>
+				<h2>Migración y/o taponamiento por finos</h2>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-12 text-center mt-5">
+				<h3>Analísis de núcleo o granulometrico, pruebas de compatibilidad, estabilizadores, inhibidores otros aditivos.</h3>
+				<h3>Compatibilidad fluido de inyección-formación.</h3>
 			</div>
 		</div>
 

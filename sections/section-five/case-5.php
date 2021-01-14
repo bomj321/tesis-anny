@@ -5,7 +5,8 @@
 
 		<div class="row">
 			<div class="col-12 text-center mt-5">
-				<h2>Analisis de núcleo o granometro</h2>
+				<h2>Migración y/o taponamiento por arena</h2>
+				<h3>Analisis de núcleo o granometro</h3>
 			</div>
 		</div>
 
